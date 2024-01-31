@@ -6,3 +6,5 @@ AimDot gives you maximum precision to aim in First Person Shooters and improves 
 
 <a href="https://imgur.com/KwsHmLK"><img src="https://i.imgur.com/KwsHmLK.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/rKoA6tg"><img src="https://i.imgur.com/rKoA6tg.png" title="source: imgur.com" /></a>
+
+This application has only been tested on Windows 10, please report any issues you encounter with the AimDot program. (Discord: @the_unreality)
